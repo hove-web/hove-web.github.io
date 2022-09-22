@@ -2,43 +2,28 @@ full_title: The 1st International Workshop on High Dimensional Vector Data Manag
 short_title: HOVE 2023
 email: hotweb2017@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  HotWeb is a forum bringing together researchers and practitioners interested 
-  in the design, implementation, and evaluation of Internet systems and applications. 
+  High-dimensional vector data management is a fundamental problem in many applications, such as image search, information retrieval, recommendation, social network analysis, and so forth. It has been extensively studied over decades and consists of many topics. Among them the high-dimensional vector similarity search is the most signi cant one, because it serves as the basic functionality in this eld. A commonly adopted setting for high-dimensional vector similarity search is to retrieve the k nearest neighbors (kNN). Over hundreds of algorithms have been proposed to solve the problem from di erent perspectives. How to retrieve a good approximation (high recall) of true kNN with acceptable overhead (low time and space complexity) becomes the most concerned question.With the development of e ective and e cient similarity search methods, topics on top of it become prevalent, such as applying it in distributed or parallel environment. 
+  This workshop aims at providing a place for researchers from the elds of database and data engineering to exchange ideas about how to adapt and develop techniques to process, analyze and manage high-dimensional vector data. 
 location: Tianjin, China
 date: April 17, 2023
-logo_path: ./assets/images/logo2017.jpg
+logo_path: ./assets/images/hove2023.png
 slideshow:
   - id: 0
-    image_path: ./assets/images/slideshow/image0.jpg
-    description: San Jose night scene
-    photographer_name: Mike Boening
-    photographer_link: https://www.flickr.com/photos/memoriesbymike/
+    image_path: ./assets/images/slideshow/Highlighted-01.jpg
+    description: HOVE 2023 to be held in Tianjin, China
+    photographer_name: #Mike Boening
+    photographer_link: #https://www.flickr.com/photos/memoriesbymike/
     active: True
   - id: 1
-    image_path: ./assets/images/slideshow/image1.jpg
-    description: San Jose Museum of Art
-    photographer_name: Bryan Nabong
-    photographer_link: https://www.flickr.com/photos/bongarang/
+    image_path: ./assets/images/slideshow/Highlighted-02.jpg
+    description: HOVE 2023 to be held in Tianjin, China
+    photographer_name: #Bryan Nabong
+    photographer_link: #https://www.flickr.com/photos/bongarang/
   - id: 2
-    image_path: ./assets/images/slideshow/image2.jpg
-    description: San Jose State University
-    photographer_name: David Sawyer
-    photographer_link: https://www.flickr.com/photos/18702768@N04/
-  - id: 3
-    image_path: ./assets/images/slideshow/image3.jpg
-    description: Cathedral Basilica of St. Joseph
-    photographer_name: Patricia Montes Gregory
-    photographer_link: https://www.flickr.com/photos/32159045@N02/
-  - id: 4
-    image_path: ./assets/images/slideshow/image4.jpg
-    description: Winchester Mystery House
-    photographer_name: Pomax
-    photographer_link: https://www.flickr.com/photos/pomax/
-  - id: 5
-    image_path: ./assets/images/slideshow/image5.jpg
-    description: Rose Garden Branch Library
-    photographer_name: John Menard
-    photographer_link: https://www.flickr.com/photos/jmenard48/
+    image_path: ./assets/images/slideshow/Highlighted-03.jpg
+    description: HOVE 2023 to be held in Tianjin, China
+    photographer_name: #David Sawyer
+    photographer_link: #https://www.flickr.com/photos/18702768@N04/
 navbar:
   - id: 0
     label: Home
@@ -47,15 +32,15 @@ navbar:
   - id: 1
     label: Organization
     path: /organization.html
-    visible: True
+    visible: False
   - id: 2
     label: Call for Papers
     path: /cfp.html
-    visible: True
+    visible: False
   - id: 3
     label: Submission
     path: /submission.html
-    visible: True
+    visible: False
   - id: 4
     label: Programs
     path: /program.html
@@ -63,23 +48,23 @@ navbar:
   - id: 5
     label: Venue
     path: /venue.html
-    visible: True
+    visible: False
   - id: 6
     label: Registration
     path: /registration.html
-    visible: True
+    visible: False
 deadlines:
-  - date: 2017-7-6
-    timezone: 9PM PDT
+  - date: TBD #2017-7-6
+    timezone: TBD #9PM PDT
     text: Submission deadline (extended)
     pass_due: False
-  - date: 2017-8-7
+  - date: TBD #2017-8-7
     text: Notification of acceptance
     pass_due: False
-  - date: 2017-8-17
+  - date: TBD #2017-8-17
     text: Camera-ready copy due
     pass_due: False
-  - date: 2017-10-14
+  - date: 2023-4-17
     text: Workshop
     pass_due: False
 news:
